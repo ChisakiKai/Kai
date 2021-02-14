@@ -516,6 +516,7 @@ def site_search(update: Update, context: CallbackContext, site: str):
             result, parse_mode=ParseMode.HTML, disable_web_page_preview=True
         )
 
+
 __help__ = """
 Get information about anime, manga or characters from [AniList](anilist.co).
 
