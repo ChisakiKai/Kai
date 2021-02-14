@@ -87,6 +87,7 @@ def markdown_help(update: Update, context: CallbackContext):
         return
     markdown_help_sender(update)
 
+
 def ping(update: Update, _):
     msg = update.effective_message
     start_time = time.time()
@@ -96,6 +97,7 @@ def ping(update: Update, _):
     message.edit_text(
         "*Pong!!!*\n`{}ms`".format(ping_time), parse_mode=ParseMode.MARKDOWN
     )
+
 
 __help__ = """
 *Available commands:*
@@ -143,9 +145,5 @@ dispatcher.add_handler(MD_HELP_HANDLER)
 dispatcher.add_handler(PING_HANDLER)
 
 __mod_name__ = "Extras"
-__command_list__ = ["id", "echo","ping"]
-__handlers__ = [
-    ECHO_HANDLER,
-    MD_HELP_HANDLER,
-    PING_HANDLER
-]
+__command_list__ = ["id", "echo", "ping"]
+__handlers__ = [ECHO_HANDLER, MD_HELP_HANDLER, PING_HANDLER]

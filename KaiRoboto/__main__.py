@@ -218,20 +218,27 @@ def start(update: Update, context: CallbackContext):
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
-                    [[
-                        InlineKeyboardButton(
-                            text="Add to your group",
-                            url="t.me/{}?startgroup=true".format(
-                                context.bot.username))
-                    ],
-                     [
-                         InlineKeyboardButton(
-                             text="Support Group",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
-                         InlineKeyboardButton(
-                             text="Source code",
-                             url="https://github.com/Anomaliii/KaiRobot")
-                     ]]))
+                    [
+                        [
+                            InlineKeyboardButton(
+                                text="Add to your group",
+                                url="t.me/{}?startgroup=true".format(
+                                    context.bot.username
+                                ),
+                            )
+                        ],
+                        [
+                            InlineKeyboardButton(
+                                text="Support Group", url=f"https://t.me/{SUPPORT_CHAT}"
+                            ),
+                            InlineKeyboardButton(
+                                text="Source code",
+                                url="https://github.com/Anomaliii/KaiRobot",
+                            ),
+                        ],
+                    ]
+                ),
+            )
     else:
         update.effective_message.reply_text("Yo, I'm Here!")
 
