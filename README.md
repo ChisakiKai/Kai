@@ -1,4 +1,4 @@
-cess" /> </a>
+<p align="center">
 <a href="https://github.com/ChisakiKai/ChisakiKai" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/chisakikai/chisakikai" /> </a>
 <a href="https://github.com/ChisakiKai/ChisakiKai/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/chisakikai/chisakikai?style=flat&logo=github" /> </a>
 <a href="https://github.com/ChisakiKai/ChisakiKai/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ChisakiKai/ChisakiKai?label=Forks&logo=github" /> </a>
