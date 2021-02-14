@@ -29,7 +29,7 @@ If you wanna forking this repo then do not forget to star it - <img alt="GitHub 
 
 ## Credits 📍
 * The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars). This repo was just revamped to suit an Anime-centric community.
-* [Sawada Tsunayoshi](https://github.com/TsunayoshoSawada) to make Saitama Robot for base this bot.
+* [Sawada Tsunayoshi](https://github.com/TsunayoshiSawada) to make Saitama Robot for base this bot.
 * And who didn't mentioned on this repo
 * Well, it's all in the commit history 
 Feel free to open pull requests should any be missing.
