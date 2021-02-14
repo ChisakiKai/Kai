@@ -337,7 +337,7 @@ def animequotes(update: Update, context: CallbackContext):
         if message.reply_to_message
         else message.reply_photo
     )
-    reply_photo(random.choice(animequotes_strings.QUOTES_IMG))
+    reply_photo(random.choice(fun_strings.QUOTES_IMG))
 
 
 __help__ = """
