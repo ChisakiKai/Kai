@@ -20,7 +20,7 @@
 Kai is a simple bot modular solution to your group management. Concept and based taken from Saitama 
 
 
-* Bot Link:  <a href="https://t.me/ChisakiKaiBot" alt="Kai Robot> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Kai-blue" /> </a>
+* Bot Link:  <a href="https://t.me/ChisakiKaiBot" alt="Kai Roboto"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Kai-blue" /> </a>
 * Support Group: <a  href="https://t.me/ZeroBotSupport" alt="Zero Bot Support"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Zero%20Bot%20Support-9cf" /> </a>
 
 Fork at your own risk.
