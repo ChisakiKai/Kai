@@ -1,14 +1,14 @@
 <p align="center">
-<a href="https://github.com/ChisakiKai/Kai" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/chisakikai/chisakikai" /> </a>
-<a href="https://github.com/ChisakiKai/Kai/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/chisakikai/chisakikai?style=flat&logo=github" /> </a>
-<a href="https://github.com/ChisakiKai/Kai/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ChisakiKai/ChisakiKai?label=Forks&logo=github" /> </a>
-<a href="https://github.com/ChisakiKai/Kai" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/chisakikai/chisakikai?color=success" /> </a>
-<a href="https://github.com/ChisakiKai/Kai" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/chisakikai/chisakikai?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/ChisakiKai/Kai" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/chisakikai/kai" /> </a>
+<a href="https://github.com/ChisakiKai/Kai/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/chisakikai/kai?style=flat&logo=github" /> </a>
+<a href="https://github.com/ChisakiKai/Kai/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ChisakiKai/Kai?label=Forks&logo=github" /> </a>
+<a href="https://github.com/ChisakiKai/Kai" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/chisakikai/kai?color=success" /> </a>
+<a href="https://github.com/ChisakiKai/Kai" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/chisakikai/kai?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 <a href="https://github.com/ChisakiKai/kai" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/ChisakiKai/Kai" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/chisakikai/chisakikai" /> </a>
+<a href="https://github.com/ChisakiKai/Kai" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/chisakikai/kai" /> </a>
 </p>
 <p align="center">
 <a href="https://t.me/ZeroBotSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
