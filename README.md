@@ -25,7 +25,7 @@ Kai is a simple bot modular solution to your group management. Concept and based
 
 Fork at your own risk.
 
-If you wanna forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chisakikai/kaiirobot?color=white&label=%F0%9F%8C%9F%20star">
+If you wanna forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chisakikai/kai?color=white&label=%F0%9F%8C%9F%20star">
 
 ## Credits 📍
 * The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars). This repo was just revamped to suit an Anime-centric community.
