@@ -1,4 +1,15 @@
 <p align="center">
+  <img src="https://telegra.ph/file/91ba2a63c53cc9d86bb10.jpg">
+</p>
+
+# Kai 
+
+<p align="center">
+- x -|│  “	Just some code who is a bot for fun. ”  │| - x -
+</p>
+
+
+<p align="center">
 <a href="https://github.com/ChisakiKai/Kai" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/chisakikai/kai" /> </a>
 <a href="https://github.com/ChisakiKai/Kai/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/chisakikai/kai?style=flat&logo=github" /> </a>
 <a href="https://github.com/ChisakiKai/Kai/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ChisakiKai/Kai?label=Forks&logo=github" /> </a>
